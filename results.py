@@ -13,10 +13,11 @@ for item in data['MRData']['SeasonTable']['Seasons']:
 season = [s['season'] for s in seasons ]
 
 
+
 limit = 100
 offset = 0
 races = []
-
+seasonRaceDict = {}
 
 
 for s in season:
@@ -31,11 +32,14 @@ for s in season:
         
         for item in data['MRData']['RaceTable']['Races']:
             flat_races = flatten(item)
-            races.append(flat_races)
+            races.append(flat_races['round'])
         
         if offset + limit >= total_races:
             break
         
         offset += limit
+    seasonRaceDict[s].append(races)
 
-pd.DataFrame(races).to_csv('races.csv', index=False)
+
+print(seasonRaceDict)
+#pd.DataFrame(races).to_csv('races.csv', index=False)
