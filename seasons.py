@@ -1,5 +1,5 @@
 import requests
-import json
+import pandas as pd
  
 URL = "http://ergast.com/api/f1/seasons.json"
  
@@ -18,4 +18,4 @@ while True:
         break
     offset += limit
 
-print(json.dumps(seasons))
+pd.DataFrame(seasons).to_csv('seasons.csv', index=False)
