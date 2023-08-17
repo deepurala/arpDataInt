@@ -19,5 +19,5 @@ while True:
     if offset > int(data['MRData']['total']):
         break
     offset += limit
-print(circuits)
+
 pd.DataFrame(circuits).to_csv('circuits.csv', index=False)
