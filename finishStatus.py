@@ -18,4 +18,4 @@ while True:
         break
     offset += limit
 
-pd.DataFrame(status).to_csv('status .csv', index=False)
+pd.DataFrame(status).to_csv('status.csv', index=False)
