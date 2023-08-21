@@ -9,8 +9,8 @@ for program in program_list:
     print("Finished:" + program)
 
 csv_files = ['circuits.csv', 'constructors.csv', 'drivers.csv', 'races.csv', 'results.csv', 'seasons.csv', 'status.csv']
-ACCESS_KEY = 'AKIAUBB2N7BW77EEY37Q'
-SECRET_KEY = '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'
+ACCESS_KEY = ''
+SECRET_KEY = ''
 
 
 def upload_to_aws(local_file, bucket, s3_file):
@@ -21,7 +21,7 @@ def upload_to_aws(local_file, bucket, s3_file):
         print("Upload Successful:"+local_file)
         return True
     except FileNotFoundError:  
-        print("The file was not found:" +local_file)
+        print("The file was not found:" +loca)
         return False
     except NoCredentialsError:
         print("Credentials not available")
