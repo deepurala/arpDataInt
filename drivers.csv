@@ -6,7 +6,7 @@ adams,http://en.wikipedia.org/wiki/Philippe_Adams,Philippe,Adams,1969-11-19,Belg
 ader,http://en.wikipedia.org/wiki/Walt_Ader,Walt,Ader,1913-12-15,American,,
 adolff,http://en.wikipedia.org/wiki/Kurt_Adolff,Kurt,Adolff,1921-11-05,German,,
 agabashian,http://en.wikipedia.org/wiki/Fred_Agabashian,Fred,Agabashian,1913-08-21,American,,
-ahrens,"http://en.wikipedia.org/wiki/Kurt_Ahrens,_Jr.",Kurt,Ahrens,1940-04-19,German,,
+ahrens,http://en.wikipedia.org/wiki/Kurt_Ahrens_Jr.,Kurt,Ahrens,1940-04-19,German,,
 aitken,http://en.wikipedia.org/wiki/Jack_Aitken,Jack,Aitken,1995-09-23,British,89,AIT
 albers,http://en.wikipedia.org/wiki/Christijan_Albers,Christijan,Albers,1979-04-16,Dutch,,ALB
 albon,http://en.wikipedia.org/wiki/Alexander_Albon,Alexander,Albon,1996-03-23,Thai,23,ALB
@@ -220,7 +220,7 @@ de_vries,http://en.wikipedia.org/wiki/Nyck_de_Vries,Nyck,de Vries,1995-02-06,Dut
 deletraz,http://en.wikipedia.org/wiki/Jean-Denis_Deletraz,Jean-Denis,Délétraz,1963-10-01,Swiss,,
 depailler,http://en.wikipedia.org/wiki/Patrick_Depailler,Patrick,Depailler,1944-08-09,French,,
 grassi,http://en.wikipedia.org/wiki/Lucas_di_Grassi,Lucas,di Grassi,1984-08-11,Brazilian,,DIG
-resta,http://en.wikipedia.org/wiki/Paul_di_Resta,Paul,di Resta,1986-04-16,British,,DIR
+resta,http://en.wikipedia.org/wiki/Paul_di_Resta,Paul,di Resta,1986-04-16,British,40,DIR
 diniz,http://en.wikipedia.org/wiki/Pedro_Diniz,Pedro,Diniz,1970-05-22,Brazilian,,
 dinsmore,http://en.wikipedia.org/wiki/Duke_Dinsmore,Duke,Dinsmore,1913-04-10,American,,
 dochnal,http://en.wikipedia.org/wiki/Frank_Dochnal,Frank,Dochnal,1920-10-08,American,,
@@ -610,7 +610,7 @@ pilette,http://en.wikipedia.org/wiki/Teddy_Pilette,Teddy,Pilette,1942-07-26,Belg
 piotti,http://en.wikipedia.org/wiki/Luigi_Piotti,Luigi,Piotti,1913-10-27,Italian,,
 piper,http://en.wikipedia.org/wiki/David_Piper,David,Piper,1930-12-02,British,,
 piquet,http://en.wikipedia.org/wiki/Nelson_Piquet,Nelson,Piquet,1952-08-17,Brazilian,,
-piquet_jr,"http://en.wikipedia.org/wiki/Nelson_Piquet,_Jr.",Nelson,Piquet Jr.,1985-07-25,Brazilian,,PIQ
+piquet_jr,http://en.wikipedia.org/wiki/Nelson_Piquet_Jr.,Nelson,Piquet Jr.,1985-07-25,Brazilian,,PIQ
 pirocchi,http://en.wikipedia.org/wiki/Renato_Pirocchi,Renato,Pirocchi,1933-03-26,Italian,,
 pironi,http://en.wikipedia.org/wiki/Didier_Pironi,Didier,Pironi,1952-03-26,French,,
 pirro,http://en.wikipedia.org/wiki/Emanuele_Pirro,Emanuele,Pirro,1962-01-12,Italian,,
