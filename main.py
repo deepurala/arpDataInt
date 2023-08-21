@@ -9,8 +9,8 @@ for program in program_list:
     print("Finished:" + program)
 
 csv_files = ['circuits.csv', 'constructors.csv', 'drivers.csv', 'races.csv', 'results.csv', 'seasons.csv', 'status.csv']
-ACCESS_KEY = ''
-SECRET_KEY = ''
+ACCESS_KEY = 'AKIAUBB2N7BW77EEY37Q'
+SECRET_KEY = '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'
 
 
 def upload_to_aws(local_file, bucket, s3_file):
